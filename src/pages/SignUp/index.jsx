@@ -37,7 +37,7 @@ export function SignUp() {
     return (
 
         <Container>
-            <Background />
+            
 
             <Form>
                 <h1>Leumas Notes</h1>
@@ -73,6 +73,8 @@ export function SignUp() {
                 </Link>
 
             </Form>
+
+            <Background />
         </Container>
     );
 }
