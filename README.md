@@ -2,7 +2,7 @@
 
 Leumasnotes is a web application built with React that allows users to create, save and manage notes. Users can create an account, update their profile information, create notes, search for notes, and filter notes by tags. The application is optimized for desktop devices.
 
-Features:
+### Features:
 
 User authentication: users can create an account, login, and update their profile information
 
@@ -18,12 +18,12 @@ Note filtering: users can filter notes by tags
 
 Responsive design: the application is optimized for desktop devices
 
-Technologies used:
-React
-React Router
-Axios
+### Technologies used:
+React.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+React Router.
 
-https://leumasnotes.netlify.app/
+Axios.
+
+### App Link:
+#### https://leumasnotes.netlify.app/
