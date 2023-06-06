@@ -1,6 +1,5 @@
 # leumasnotes
 
-Leumasnotes
 Leumasnotes is a web application built with React that allows users to create, save and manage notes. Users can create an account, update their profile information, create notes, search for notes, and filter notes by tags. The application is optimized for desktop devices.
 
 Features
